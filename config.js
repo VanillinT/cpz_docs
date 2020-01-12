@@ -1,13 +1,13 @@
 const config = {
   gatsby: {
     pathPrefix: "/",
-    siteUrl: "https://docs.cryptuoso.com",
+    siteUrl: "https://support.cryptuoso.com",
     gaTrackingId: null
   },
   header: {
-    logo: "https://cpz-prod.cryptuoso.com/logo_cryptuoso.svg",
-    logoLink: "https://docs.cryptuoso.com",
-    title: "CRYPTUOSO - Documentation",
+    logo: "./cryptuoso_logo.png",
+    logoLink: "https://support.cryptuoso.com",
+    title: "CRYPTUOSO - Support and Docs",
     githubUrl: "https://github.com/cryptuoso/cpz_docs",
     helpUrl: "",
     tweetText: "",
@@ -22,21 +22,28 @@ const config = {
   },
   sidebar: {
     forcedNavOrder: [
-      "/introduction",
+      "/index",
+      "/robots",
       "/signals",
-      "/trading",
-      "/exchange-accounts"
+      "/exchange-accounts",
+      "/support",
+      "/terms-of-use",
+      "/privacy-policy"
     ],
-    links: [{ text: "CRYPTUOSO", link: "https://cryptuoso.com" }],
+    links: [
+      { text: "Web Site", link: "https://cryptuoso.com" },
+      { text: "Telegram Trading Bot", links: "https://t.me/cryptuoso_bot" }
+    ],
     frontline: false,
-    ignoreIndex: true
+    ignoreIndex: false
   },
   siteMetadata: {
-    title: "Cryptuoso Cryptocurrency Trading Platform | Documentation",
-    description: "User Documentation",
+    title: "Cryptuoso Cryptocurrency Trading Platform | Support",
+    description:
+      "Cryptuoso Cryptocurrency Trading Platform - Documentation and Support",
     ogImage: null,
     docsLocation: "https://github.com/cryptuoso/cpz_docs/tree/master/content",
-    favicon: "https://cpz-prod.cryptuoso.com/favicon.ico"
+    favicon: "./favicon.png"
   }
 };
 
