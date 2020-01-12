@@ -5,7 +5,7 @@ const config = {
     gaTrackingId: null
   },
   header: {
-    logo: "./cryptuoso_logo.png",
+    logo: "https://support.cryptuoso.com/cryptuoso_logo.png",
     logoLink: "https://support.cryptuoso.com",
     title: "CRYPTUOSO - Support and Docs",
     githubUrl: "https://github.com/cryptuoso/cpz_docs",
@@ -43,7 +43,7 @@ const config = {
       "Cryptuoso Cryptocurrency Trading Platform - Documentation and Support",
     ogImage: null,
     docsLocation: "https://github.com/cryptuoso/cpz_docs/tree/master/content",
-    favicon: "./favicon.png"
+    favicon: "https://support.cryptuoso.com/favicon.png"
   }
 };
 
