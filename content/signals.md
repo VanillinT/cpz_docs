@@ -30,7 +30,7 @@ The signals go out once or 3 times a day at the same time so it’s easy to foll
 It’s **important** to place an order in advance, because you can skip the necessary moment.
 
 ## How to subscribe on signals?
-1. Go to our Telegram bot @cryptuoso_bot  
+1. Go to our Telegram bot @cryptuoso_bot 
    ![Main menu](./main_menu.png)
  2. Choose "Signals".
    ![Signals](./search_signals2.png)
