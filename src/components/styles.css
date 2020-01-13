@@ -32,11 +32,10 @@ body {
 a {
   transition: color 0.15s;
   color: #013678;
-  text-decoration: underline;
 }
 
 a:hover {
-  color: #0B98C5;
+  color: #0b98c5;
 }
 
 body {
@@ -100,7 +99,7 @@ body {
 
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
-  background-color: #0B98C5;
+  background-color: #0b98c5;
 }
 
 .headerWrapper {
@@ -295,14 +294,14 @@ pre {
 .headerNav {
   font-family: "Roboto";
   padding: 0px 24px;
-  color: #5BECAE;
+  color: #5becae;
   font-size: 16px;
   font-weight: 500;
   line-height: 1em;
 }
 
 .headerNav a {
-  color: #5BECAE;
+  color: #5becae;
   text-decoration: none;
 }
 
@@ -376,14 +375,14 @@ pre {
 }
 
 .hideFrontLine .active > a {
-  background-color: #0B98C5;
+  background-color: #0b98c5;
   color: #fff !important;
 }
 .firstLevel ul li .collapser svg path {
   fill: #fff !important;
 }
 .active .collapser > svg > path {
-  fill: #0B98C5 !important;
+  fill: #0b98c5 !important;
 }
 
 .firstLevel ul .item ul .item {
@@ -404,15 +403,15 @@ pre {
   padding-left: 15px;
 }
 .sideBarUL .item > a:hover {
-  background-color: #0B98C5;
+  background-color: #0b98c5;
   color: #fff !important;
 }
 .showFrontLine .item > a:hover {
-  background-color: #0B98C5;
+  background-color: #0b98c5;
 }
 .showFrontLine .active > a {
   color: #fff;
-  background-color: #0B98C5;
+  background-color: #0b98c5;
 }
 
 .sideBarUL .item .item {
@@ -434,7 +433,7 @@ pre {
   border-color: rgb(230, 236, 241) !important;
   border-style: solid none solid solid;
   border-width: 1px 0px 1px 1px;
-  background-color: #0B98C5;
+  background-color: #0b98c5;
   color: #fff;
 }
 
@@ -591,14 +590,14 @@ pre {
 
 .nextBtn:hover,
 .previousBtn:hover {
-  color: #0B98C5;
+  color: #0b98c5;
   text-decoration: none;
-  border: 1px solid #0B98C5;
+  border: 1px solid #0b98c5;
 }
 
 .nextBtn:hover .rightArrow,
 .previousBtn:hover .leftArrow {
-  color: #0B98C5;
+  color: #0b98c5;
 }
 
 /* tables.css */
