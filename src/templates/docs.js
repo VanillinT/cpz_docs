@@ -31,7 +31,7 @@ const Edit = styled("div")`
     height: 30px;
     padding: 5px 16px;
     &:hover {
-      background-color: #095270;
+      background-color: #0B98C5;
     }
   }
 `;
