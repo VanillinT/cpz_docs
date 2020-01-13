@@ -31,7 +31,11 @@ body {
 
 a {
   transition: color 0.15s;
-  color: #663399;
+  color: #013678;
+}
+
+a:hover {
+  color: #0b98c5;
 }
 
 body {
@@ -95,7 +99,7 @@ body {
 
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
-  background-color: #095270;
+  background-color: #0b98c5;
 }
 
 .headerWrapper {
@@ -206,17 +210,17 @@ body {
 
 /* Header section starts here */
 .navBarDefault {
-  background-color: #0b5472;
+  background-color: #013678;
   border-radius: 0;
   border-top: 0;
   margin-bottom: 0;
   border: 0;
   display: flex;
   align-items: center;
-  box-shadow: -1px 0px 4px 1px #0b5472;
-  -webkit-box-shadow: -1px 0px 4px 1px #0b5472;
-  -moz-box-shadow: -1px 0px 4px 1px #0b5472;
-  -o-box-shadow: -1px 0px 4px 1px #0b5472;
+  box-shadow: -1px 0px 4px 1px #013678;
+  -webkit-box-shadow: -1px 0px 4px 1px #013678;
+  -moz-box-shadow: -1px 0px 4px 1px #013678;
+  -o-box-shadow: -1px 0px 4px 1px #013678;
   z-index: 1;
   padding: 15px;
 }
@@ -226,6 +230,7 @@ body {
 }
 .navBarBrand {
   height: auto;
+  text-decoration: none;
   font-size: 28px;
   line-height: 1.5;
   font-weight: 500;
@@ -289,14 +294,14 @@ pre {
 .headerNav {
   font-family: "Roboto";
   padding: 0px 24px;
-  color: rgb(116, 76, 188);
+  color: #5becae;
   font-size: 16px;
   font-weight: 500;
   line-height: 1em;
 }
 
 .headerNav a {
-  color: rgb(116, 76, 188);
+  color: #5becae;
   text-decoration: none;
 }
 
@@ -370,14 +375,14 @@ pre {
 }
 
 .hideFrontLine .active > a {
-  background-color: #095270;
+  background-color: #0b98c5;
   color: #fff !important;
 }
 .firstLevel ul li .collapser svg path {
   fill: #fff !important;
 }
 .active .collapser > svg > path {
-  fill: #663399 !important;
+  fill: #0b98c5 !important;
 }
 
 .firstLevel ul .item ul .item {
@@ -398,15 +403,15 @@ pre {
   padding-left: 15px;
 }
 .sideBarUL .item > a:hover {
-  background-color: #095270;
+  background-color: #0b98c5;
   color: #fff !important;
 }
 .showFrontLine .item > a:hover {
-  background-color: #095270;
+  background-color: #0b98c5;
 }
 .showFrontLine .active > a {
   color: #fff;
-  background-color: #095270;
+  background-color: #0b98c5;
 }
 
 .sideBarUL .item .item {
@@ -428,7 +433,7 @@ pre {
   border-color: rgb(230, 236, 241) !important;
   border-style: solid none solid solid;
   border-width: 1px 0px 1px 1px;
-  background-color: #095270;
+  background-color: #0b98c5;
   color: #fff;
 }
 
@@ -444,7 +449,7 @@ pre {
   font-size: 32px;
   line-height: 1.5;
   font-weight: 500;
-  border-left: 2px solid #0b5472;
+  border-left: 2px solid #013678;
   padding: 0 16px;
   flex: 1;
   margin-top: 0;
@@ -585,14 +590,14 @@ pre {
 
 .nextBtn:hover,
 .previousBtn:hover {
-  color: #095270;
+  color: #0b98c5;
   text-decoration: none;
-  border: 1px solid #095270;
+  border: 1px solid #0b98c5;
 }
 
 .nextBtn:hover .rightArrow,
 .previousBtn:hover .leftArrow {
-  color: #095270;
+  color: #0b98c5;
 }
 
 /* tables.css */
