@@ -31,7 +31,8 @@ body {
 
 a {
   transition: color 0.15s;
-  color: #0B98C5;
+  color: #013678;
+  text-decoration: underline;
 }
 
 a:hover {
@@ -210,17 +211,17 @@ body {
 
 /* Header section starts here */
 .navBarDefault {
-  background-color: #091943;
+  background-color: #013678;
   border-radius: 0;
   border-top: 0;
   margin-bottom: 0;
   border: 0;
   display: flex;
   align-items: center;
-  box-shadow: -1px 0px 4px 1px #091943;
-  -webkit-box-shadow: -1px 0px 4px 1px #091943;
-  -moz-box-shadow: -1px 0px 4px 1px #091943;
-  -o-box-shadow: -1px 0px 4px 1px #091943;
+  box-shadow: -1px 0px 4px 1px #013678;
+  -webkit-box-shadow: -1px 0px 4px 1px #013678;
+  -moz-box-shadow: -1px 0px 4px 1px #013678;
+  -o-box-shadow: -1px 0px 4px 1px #013678;
   z-index: 1;
   padding: 15px;
 }
@@ -230,6 +231,7 @@ body {
 }
 .navBarBrand {
   height: auto;
+  text-decoration: none;
   font-size: 28px;
   line-height: 1.5;
   font-weight: 500;
@@ -448,7 +450,7 @@ pre {
   font-size: 32px;
   line-height: 1.5;
   font-weight: 500;
-  border-left: 2px solid #091943;
+  border-left: 2px solid #013678;
   padding: 0 16px;
   flex: 1;
   margin-top: 0;

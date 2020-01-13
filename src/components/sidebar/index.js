@@ -7,7 +7,7 @@ import "../styles.css";
 import config from "../../../config";
 
 const forcedNavOrder = config.sidebar.forcedNavOrder;
-const primaryColor = '#091943';
+const primaryColor = '#013678';
 const secondaryColor = '#242B4A';
 const tertiaryColor = '#0B98C5';
 
@@ -36,7 +36,7 @@ const ListItem = styled(({ className, active, level, ...props }) => {
     ${props =>
       props.active &&
       `
-      color: ${tertiaryColor};
+      color: #663399;
       border-color: rgb(230,236,241) !important;
       border-style: solid none solid solid;
       border-width: 1px 0px 1px 1px;
