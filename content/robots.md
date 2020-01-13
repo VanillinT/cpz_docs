@@ -31,7 +31,7 @@ The simple formula looks like _balance / number of robots (1000 / 10 = 100 $ - v
 Ok, you want the robot to trade 100 $. Just divide 100 $ on desired cryptocurrency price and you will get the volume for robot to trading.  
 Just enter the received volume in the "trading volume" window for the robot and push the "start" button.
 
-## How to start/stop robot on your account exchange?
+## How to start/stop robot in our Telegram bot?
 
 1. Go to our Telegram bot @cryptuoso_bot
 
@@ -57,8 +57,8 @@ Just enter the received volume in the "trading volume" window for the robot and 
 - If you want to start this robot just click "Add Robot".  
    ![Add robot](./add_robot.png)
 
-8. If you haven't attached your exchange keys in "Settings" before the bot will ask you to do it.
-   ![Add keys](./add_keys.png)
+8. If you haven't attached your exchange keys in "Settings" before the bot will ask you to do it (if you don't know what is API keys [learn this](https://support.cryptuoso.com/exchange-accounts))   
+   ![Add keys](./add_keys.png)  
    Firstly enter your public key, then press enter and paste your private (secret) key.
 9. Enter desired trading volume in BTC (cause in our example we have the BTC/USD pair).
 10. Now you are done. If you want to start more robots just repeat these steps.

@@ -31,7 +31,7 @@ All signals based on algorithms that tested on history and work in real-time **m
 The signals go out once or 3 times a day at the same time so it’s easy to follow manually. Just repeat the orders (buy, sell or stop/limit orders).  
 It’s **important** to place an order in advance, because you can skip the necessary moment.
 
-## How to subscribe on signals?
+## How to subscribe on signals in our Telegram bot?
 
 1. Go to our Telegram bot @cryptuoso_bot
    ![Main menu](./main_menu.png)
