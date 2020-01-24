@@ -14,7 +14,7 @@ We are going to explain here how to create an account at Bitfinex, how to deposi
 
 You have to verify yourself.  
 Go to the "Verification" in the upper right corner in the "Manage Account".
-![Verification window](../bitfinex_verification.png)
+![Verification window](https://support.cryptuoso.com/bitfinex_verification.png)
 
 ## Deposit funds to your account
 
@@ -27,7 +27,7 @@ Go to your [deposit page](https://www.bitfinex.com/deposit) and select the payme
 3. Configure your new API key's permissions as in the screenshot.
 4. Label your API key and generate.  
    **IMPORTANT!** Use the keys you create only in Cryptuoso account to prevent ban from Bitfinex. It is essential that you store your API keys in a secure location and treat it like a password. Anyone with access to your API keys can take control of your account.
-   ![Key permissions](../bitfinex_keys.png)
+   ![Key permissions](https://support.cryptuoso.com/bitfinex_keys.png)
    **IMPORTANT!** Don't give us withdrawal permissions!
 
 ## Using an API Key
