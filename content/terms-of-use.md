@@ -23,7 +23,7 @@ If you want to use our Website and Software, go to https://www.cryptuoso.com.
 You will need to register and create a personal account in order to use the Website and Software.  
 You must protect the login details of your account and keep your password strictly secret.  
 We will assume that all actions taken from your account are done by you or under your supervision.  
-You agree to provide up-to-date, complete and accurate information on your account. 
+You agree to provide up-to-date, complete and accurate information on your account.
 You agree to promptly update your personal account when necessary, so that we can contact you if needed.
 
 ### Offers and prices
@@ -33,37 +33,20 @@ However, all offers and free trials are always subject to these Terms.
 The prices on the Website do not include taxes and expenses.  
 We can always adjust our prices. The price change will take effect immediately.
 
-### Subscription and payment
-
-You need a subscription to use the Website and Software. Subscriptions are offered for a fixed amount per month and/or per year. You can get a subscription at https://www.cryptuoso.com.  
-Cryptuoso offers several sorts of packages as a subscription. Each package differs in the amount of positions, selected coins, frequency of scanning the stock market and the amount of support from Cryptuoso. You can find all packages at https://www.cryptuoso.com.  
-Cryptuoso will give User access to the Software immediately after the subscription has been completed.  
-The price of the subscription will be invoiced automatically every month.  
-Possible methods of payment are displayed on the Website and include for example, credit cards (e.g. Visa or MasterCard) and cryptocurrencies.  
-A monthly subscription will continue for a month-to-month period, unless User cancels the subscription before the end of the term already paid for.  
-A yearly subscription will automatically be extended after expiration, unless User cancels the subscription before the end of the term already paid for.  
-In case User is a natural person, the automatically extended subscription can be terminated on a monthly basis. User can also modify the extended subscription to a yearly subscription.  
-User can cancel the subscription by the end of the term already paid for. The account of the User will remain active for the period that User has already paid for.
-
-### Withdrawal
-
-User has the right to withdraw the subscription up to 14 days after getting it on the Website.  
-If User withdraws the subscription, User will pay for the period User has already been able to use the Software. User will get the rest of the paid amount back as a refund.  
-In case of a free trial, no refund is granted if the User withdraws the subscription.
-
 ### Fair use of our Website and Software
 
-By using our Website and Software, you declare to be at least 18 years old.   
+By using our Website and Software, you declare to be at least 18 years old.  
 You may not use the Website and Software in such way that you violate any applicable laws and regulations.  
 As a condition for using the Website and Software, you agree not to provide any information, data or content to us or the Website and Software that is incorrect, inaccurate, incomplete or that violates any law or regulation. In addition, you agree that you will not, nor allow third parties to:
-   - enter any non-public / secure areas of the Website or Software;
-   - send viruses, worms, junk mail, spam, chain letters, unsolicited offers or ads of any kind and for any purpose;
-   - investigate, scan or test the Website of Software or any other related system or network, or violate any security or authentication;
-   - use any automated systems of software to withdraw data from the Website (“screen-scraping”);
-   - make and distribute copies of the Website or Software;
-   - attempt to sell, distribute, copy, rent, sub-license, loan, merge, reproduce, alter, modify, reverse engineer, disassemble, decompile, transfer, exchange, translate, hack, distribute, harm or misuse the Website or Software;
-   - create derivative works of any kind whatsoever.  
-  
+
+- enter any non-public / secure areas of the Website or Software;
+- send viruses, worms, junk mail, spam, chain letters, unsolicited offers or ads of any kind and for any purpose;
+- investigate, scan or test the Website of Software or any other related system or network, or violate any security or authentication;
+- use any automated systems of software to withdraw data from the Website (“screen-scraping”);
+- make and distribute copies of the Website or Software;
+- attempt to sell, distribute, copy, rent, sub-license, loan, merge, reproduce, alter, modify, reverse engineer, disassemble, decompile, transfer, exchange, translate, hack, distribute, harm or misuse the Website or Software;
+- create derivative works of any kind whatsoever.
+
 You may not create an account under someone else’s name or act like someone else in any other way.  
 In case the account concerns a corporate account, only an authorized person is allowed to trade with the corporate account. It is the responsibility of the user of the corporate account that only authorized persons have access to the account.  
 If you receive personal data or other sensitive information from other users, you will keep this information secret.
@@ -91,13 +74,14 @@ To the maximum extent permitted by applicable law, Cryptuoso hereby disclaims al
 
 Cryptuoso has a Support section where User can ask questions about the Website and Software. Cryptuoso will only give advice about the functioning of the Website and Software.  
 Cryptuoso explicitly does not:
-* Give Users any personal advice on recommended settings for the robots;
-* Give Users any personal financial advice.  
-  
+
+- Give Users any personal advice on recommended settings for the robots;
+- Give Users any personal financial advice.
+
 Cryptuoso may upload general tutorials and academy videos on the Website, about the functioning of the Website and Software.  
 All tutorials, videos and templates uploaded by Cryptuoso are general and contain in no way personal and/or financial advice.  
-__All use of these advices is at the sole risk of the User.__  
-__All use of trading robots is at the sole risk of the User.__
+**All use of these advices is at the sole risk of the User.**  
+**All use of trading robots is at the sole risk of the User.**
 
 ### Risks
 
@@ -107,24 +91,25 @@ User is aware of the accompanying risks of possessing, trading and using crypto 
 
 Nothing in these Terms of use shall exclude or limit Cryptuoso's liability when it cannot be excluded or limited under applicable law.  
 Cryptuoso is not liable to you for any (direct or indirect) damage you suffer as a result of the use of the Website or Software or the content provided thereon. For example, Cryptuoso is not liable for:
-* the proper functioning of (hyper)links provided by the Website or Software;
-* the quality of any template containing robot settings, provided by Users on the Website;
-* the (lack of) financial benefit for the Users through the use of the Website or Software;
-* any situation where Users mobile device, login details and/or password is stolen and any third party subsequently makes use of the Website or Software without User’s consent;
-* any damage or alteration to User’s equipment including but not limited to computer equipment or a handheld device as a result of the installation or use of the Website or Software;
-* a failure to meet any of Cryptuoso's obligations under these Terms of use where such failure is due to events beyond Cryptuoso's reasonable control.  
-  
-The information and data on the “User-Forum” https://www.cryptuoso.com/forums and [“Telegram Community”](https://t.me/joinchat/ACVS-0zaWVBgAYm8gOKYHA) are User Generated.  
-Cryptuoso has no influence on the data and information that is transmitted between Users on the User-Forum and Telegram Community, and Cryptuoso will not monitor any content on the User-Forum uploaded or shared by Users.  
-Therefore, Cryptuoso is not liable for any data and information on the User-Forum and Telegram Community. Cryptuoso may remove content and information from the User-Forum and Telegram Community if we are notified that the content or information is unlawful, violating these Terms of use or is otherwise inappropriate.  
-Please see https://www.cryptuoso.com/contacts for our notice and take down policy.
+
+- the proper functioning of (hyper)links provided by the Website or Software;
+- the quality of any template containing robot settings, provided by Users on the Website;
+- the (lack of) financial benefit for the Users through the use of the Website or Software;
+- any situation where Users mobile device, login details and/or password is stolen and any third party subsequently makes use of the Website or Software without User’s consent;
+- any damage or alteration to User’s equipment including but not limited to computer equipment or a handheld device as a result of the installation or use of the Website or Software;
+- a failure to meet any of Cryptuoso's obligations under these Terms of use where such failure is due to events beyond Cryptuoso's reasonable control.
+
+The information and data on [“Telegram Community”](https://t.me/joinchat/ACVS-0zaWVBgAYm8gOKYHA) are User Generated.  
+Cryptuoso has no influence on the data and information that is transmitted between Users on Telegram Community, and Cryptuoso will not monitor any content shared by Users.  
+Therefore, Cryptuoso is not liable for any data and information on Telegram Community. Cryptuoso may remove content and information from Telegram Community if we are notified that the content or information is unlawful, violating these Terms of use or is otherwise inappropriate.
 
 ### Indemnification
 
 Users will indemnify, defend, and hold Cryptuoso harmless from and against all liabilities, damages and costs (including settlement costs and reasonable attorneys’ fees) arising out of third party claims regarding:
-* any injury or damages resulting from behaviour of User related to the use of our Website and Software; and
-* breach by User of these Terms of use or violation of any applicable law, regulation or order.
-  
+
+- any injury or damages resulting from behaviour of User related to the use of our Website and Software; and
+- breach by User of these Terms of use or violation of any applicable law, regulation or order.
+
 ### Miscellaneous
 
 Cryptuoso reserves the right to change these Terms of use. When we change these Terms of use in a significant way, we will notify Users by newsletter (if User has provided us with his e-mail address to this end) and post a notification on our Website along with the updated Terms of use.  

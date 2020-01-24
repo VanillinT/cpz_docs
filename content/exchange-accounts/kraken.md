@@ -9,7 +9,7 @@ We are going to explain here how to create an account at Kraken, how to deposit 
 ## Register an account
 
 [Kraken account registration.](https://r.kraken.com/mqVYO)
-![Log in window](../kraken_register.png)
+![Log in window](https://support.cryptuoso.com/kraken_register.png)
 
 After you have signed up, you’ll receive an email with an activation link. Click the link and your account will be activated.
 
@@ -18,7 +18,7 @@ After you have signed up, you’ll receive an email with an activation link. Cli
 You have to verify yourself.
 Go to the "Get Verified" in the upper right corner in the account setting. You will need an "Intermediate" account if you want to deposit fiat currencies (Euro's, Dollars, Yen's etc).
 
-![Verification window](../kraken_verification.png)
+![Verification window](https://support.cryptuoso.com/kraken_verification.png)
 
 ## Deposit funds to your account
 
@@ -35,14 +35,14 @@ Go to API in the upper right corner in the account settings -> Generate new key.
 
 **IMPORTANT!** Use the keys you create only in Cryptuoso account to prevent ban from Kraken. It is essential that you store your API keys in a secure location and treat it like a password. Anyone with access to your API keys can take control of your account.
 
-![API_keys](../kraken_api.png)
+![API_keys](https://support.cryptuoso.com/kraken_api.png)
 
 ### Configuring An API Key
 
 API keys have several configuration options that must be setup before an API key can be used, notably the Key Description and Key Permissions.  
 Please repeat the permissions as in the screenshot.
 
-![Key_permissions](../kraken_key_permissions.png)
+![Key_permissions](https://support.cryptuoso.com/kraken_key_permissions.png)
 
 **IMPORTANT!** Don't give us withdrawal permissions!
 
@@ -50,7 +50,7 @@ Please repeat the permissions as in the screenshot.
 
 API keys consist of a public/private key pair, both of which must be provided to our software.
 
-![keys](../kraken_keys.png)
+![keys](https://support.cryptuoso.com/kraken_keys.png)
 
 Now get to the @Cryptuoso_bot in Telegram!
 
