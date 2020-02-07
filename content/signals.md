@@ -128,6 +128,16 @@ The simple formula looks like _balance / number of robots (1000 / 10 = 100 $ - v
 Ok, you want the robot to trade 100 $. Just divide 100 $ on desired cryptocurrency price and you will get the volume for robot to trading.  
 Just enter the received volume in the "trading volume" window for the robot and push the "start" button.
 
+## Signals Statistics
+
+We offer 2 types of statistics:
+1. Public Statistics.  
+You can get it in Signals --> My Signals or Signals --> Search Signals.  
+It's the statistics based on all robot's trades from the moment we launch it.
+2. My Statistics.  
+It is also located in in Signals --> My Signals or Signals --> Search Signals.  
+This statistics based on robot's trades from the moment you subscribe to it.
+
 ## How to understand robot's statistics?
 
 **Net Profit** - the total dollar profit generated.  
@@ -141,3 +151,16 @@ Just enter the received volume in the "trading volume" window for the robot and 
 **Profit Factor** - the absolute value of the gross profit divided by the gross loss.  
 **Recovery Factor** - the absolute value of the total net profit divided by its maximum drawdown.  
 **Payoff Ratio** - the average percentage profit per trade divided by the average percentage loss per trade.
+
+### Top Perfomance Signals
+It's the list of top 10 Signals that perform better results at the moment.  
+It doesn't mean that you should use only these Signals, because this is just the situation at the moment. In a few weeks there can be another Signals in the top perfomance.
+
+### Total Perfomance
+"My Total Perfomance" shows the overall statistics for all signals from the moment of subscribing to them.  
+![Total Perfomance](https://support.cryptuoso.com/total_perfomance.png)
+
+### Telegram Signals Notifications
+You can find it in "Settings".  
+![Notifications](https://support.cryptuoso.com/notifications.png)  
+**If you turn signals notifications OFF you will not receive any messages about signals!**

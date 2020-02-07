@@ -31,7 +31,7 @@ The simple formula looks like _balance / number of robots (1000 / 10 = 100 $ - v
 Ok, you want the robot to trade 100 $. Just divide 100 $ on desired cryptocurrency price and you will get the volume for robot to trading.  
 Just enter the received volume in the "trading volume" window for the robot and push the "start" button.
 
-## How to start/stop robot in our Telegram bot?
+## How to start robot in our Telegram bot?
 
 1. Go to our Telegram bot @cryptuoso_bot
 
@@ -59,12 +59,39 @@ Just enter the received volume in the "trading volume" window for the robot and 
 
 8. If you haven't attached your exchange keys in "Settings" before the bot will ask you to do it (if you don't know what is API keys [learn this](https://support.cryptuoso.com/exchange-accounts))  
    ![Add keys](https://support.cryptuoso.com/add_keys.png)  
-   Firstly enter your public key, then press enter and paste your private (secret) key.
-9. Enter desired trading volume in BTC (cause in our example we have the BTC/USD pair).
-10. Now you are done. If you want to start more robots just repeat these steps.
-11. To see your trading statistics, edit trading size or delete robot you can go to "Main Menu"--> "Robots" --> "My Robots" --> choose the robot you want
+   Firstly enter your public key, then press enter and paste your private (secret) key.  
+   The key will be saved, so next time you can just choose the key you added.  
+   ![Saved key](https://support.cryptuoso.com/saved_key.png)
+9. Enter desired trading volume in ATOM (cause in our example we have the ATOM/USD pair).  
+   ![Trading size](https://support.cryptuoso.com/robot_volume.png)
+10. Press "Yes" to confirm that you want to start robot.  
+   ![Confirm robot start](https://support.cryptuoso.com/confirm_start.png)
+11. Now you are done. You will get the message "Robot is started now!".
+12.  If you want to start more robots just repeat these steps.
 
-![Robot started](https://support.cryptuoso.com/robot_trading_menu.png)
+## How to stop/delete robot in our Telegram bot?
+1. To stop or delete robot you can go to "Main Menu"--> "Robots" --> "My Robots" --> choose the robot you want.
+2. Choose "Stop Robot".  
+   ![Stop Robot](https://support.cryptuoso.com/stop_robot.png)
+3. Confirm that you want to stop robot.  
+   ![Stop Robot confirmation](https://support.cryptuoso.com/confirm_stop.png)  
+   **Note that all open positions will be closed after stopping! Wait please till you get the message "Robot is stopped now!" It can take a couple of minutes!**
+4. After stopping you can choose this robot in "My robots" and press "Delete Robot". After your confirmation it will be deleted!  
+   **Note that "My Statistics" on this robot will be also deleted!**
+
+## How to change trading volume if the robot is already started?
+You should firstly stop the robot.  
+Then go Robots --> My Robots --> Choose the robot you want and press "Edit Trading Volume".  
+![Edit Trading Volume](https://support.cryptuoso.com/robot_full_menu.png)
+
+## Robots Statistics
+We offer 2 types of statistics:
+1. Public Statistics.  
+You can get it in Robots --> My Robots or Robots --> Search Robots.  
+It's the statistics based on all robot's trades from the moment we launch it.
+2. My Statistics.  
+It is located in Robots --> My Robots  
+This statistics based on robot's trades from the moment you start it.  
 
 ## How to understand robot's statistics?
 
@@ -79,3 +106,16 @@ Just enter the received volume in the "trading volume" window for the robot and 
 **Profit Factor** - the absolute value of the gross profit divided by the gross loss.  
 **Recovery Factor** - the absolute value of the total net profit divided by its maximum drawdown.  
 **Payoff Ratio** - the average percentage profit per trade divided by the average percentage loss per trade.
+
+### Top Perfomance Robots
+It's the list of top 10 robots that perform better results at the moment.  
+It doesn't mean that you should use only these robots, because this is just the situation at the moment. In a few weeks there can be another robots in the top perfomance.
+
+### Total Perfomance
+"My Total Perfomance" shows the overall statistics for all robots from the moment of start.  
+![Total Perfomance](https://support.cryptuoso.com/total_perfomance.png)
+
+### Telegram Trading Notifications
+You can find it in "Settings". 
+![Notifications](https://support.cryptuoso.com/notifications.png)  
+**If you turn trading notifications OFF you will not receive any messages about trades!**
