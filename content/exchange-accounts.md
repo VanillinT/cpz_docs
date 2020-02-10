@@ -32,4 +32,4 @@ Look at the section for your Exchange.
 5. Wait till you API Key Pair will be tested. Cryptuoso Platform will create and immediately cancel order to test your keys.
 6. Now you can start automated trading in 🏠 **Main Menu** / 🤖 **Robots** section.
 
-![add api key](https://support.cryptuoso.com/add_api_key)
+![add api key](https://support.cryptuoso.com/add_api_key.gif)
