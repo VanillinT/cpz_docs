@@ -17,7 +17,7 @@ Robots instantly respond to cryptocurrency market fluctuations and generate trad
 
 # How can I use it?
 
-Cryptuoso Platform is available by [**Cryptuoso Trading Telegram Bot**](https://t.me/cryptuoso_bot).
+Cryptuoso Platform is available by [**Cryptuoso Trading Telegram Bot @cryptuoso_bot**](https://clc.la/cryptuoso_bot_beta).
 
 Cryptuoso Web and Mobile Apps will be available soon.
 

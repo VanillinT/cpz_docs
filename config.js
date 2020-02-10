@@ -32,7 +32,10 @@ const config = {
     ],
     links: [
       { text: "Web Site", link: "https://cryptuoso.com" },
-      { text: "Telegram Trading Bot", links: "https://t.me/cryptuoso_bot" }
+      {
+        text: "Telegram Trading Bot",
+        link: "https://clc.la/cryptuoso_bot_beta"
+      }
     ],
     frontline: false,
     ignoreIndex: false
