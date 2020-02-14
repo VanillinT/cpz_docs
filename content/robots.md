@@ -48,14 +48,14 @@ You can select robots by:
 - strategy and parameters _(BR-1, CHAN-3, ...)_
 - timeframe _(8 hour, 1 day, ...)_
 
-Robots have different perfomance and this perfomance can change from time to time.
+Robots have different performance and this performance can change from time to time.
 
-Robot's 📉 **Public Statistics** section describes current robot perfomance in detail.
+Robot's 📉 **Public Statistics** section describes current robot performance in detail.
 
 You can search robots by exchange and currency pair in 🤖 **Robots** / 🔎 **Search Robots** section.
 
-Or choose one from the list of top 10 robots that perform better results at the moment in 🤖 **Robots** / 🏆 **Top Perfomance Robots** section.
-Please note that **it doesn't mean that you should use only these robots**, because this list only reflects the current market situation. In a few weeks there can be another robots in the top perfomance.
+Or choose one from the list of top 10 robots that perform better results at the moment in 🤖 **Robots** / 🏆 **Top Performance Robots** section.
+Please note that **it doesn't mean that you should use only these robots**, because this list only reflects the current market situation. In a few weeks there can be another robots in the top performance.
 
 ## How to understand robot's statistics?
 
@@ -97,7 +97,7 @@ Just enter the received volume while adding new robot and you can start trading.
 
 1. Open our telegram bot [@cryptuoso_bot](https://clc.la/cryptuoso_bot_beta)
 2. Create [API Keys Pair](./exchange-accounts) on your exchange and add them to your account in ⚙️ **Settings** / 🔐 **My Exchange API Keys** bot section.
-3. Choose one of our robots in 🤖 **Robots** / 🔎 **Search Robots** or 🤖 **Robots** / 🏆 **Top Perfomance Robots** sections.
+3. Choose one of our robots in 🤖 **Robots** / 🔎 **Search Robots** or 🤖 **Robots** / 🏆 **Top Perfomarnce Robots** sections.
 4. Tap ✅ **Add Robot** button.
 5. Choose your Exchange API Key or create new one.
 6. Enter desired cryptocurrency trading volume.
@@ -115,10 +115,10 @@ We offer 2 types of statistics:
 2. 📈 **My Statistics**.  
    This statistics based on robot's trades from the moment you start it.
 
-## Total Perfomance
+## Total Performance
 
-🤖 **Robots** / 📊 **My Total Perfomance** shows the overall statistics for all trading robots from the moment of start.  
-![Total Perfomance](https://support.cryptuoso.com/total_perfomance.png)
+🤖 **Robots** / 📊 **My Total Performance** shows the overall statistics for all trading robots from the moment of start.  
+![Total Performance](https://support.cryptuoso.com/total_performance.png)
 
 ## I don't want to recieve notifications about robot trades
 

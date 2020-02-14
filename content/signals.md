@@ -62,14 +62,14 @@ You can select signal robots by:
 - strategy and parameters _(BR-1, CHAN-3, ...)_
 - timeframe _(8 hour, 1 day, ...)_
 
-Signal robots have different perfomance and this perfomance can change from time to time.
+Signal robots have different performance and this performance can change from time to time.
 
-Signal robot's 📉 **Public Statistics** section describes current robot perfomance in detail.
+Signal robot's 📉 **Public Statistics** section describes current robot performance in detail.
 
 You can search signal robots by exchange and currency pair in 🚦 **Signals** / 🔎 **Search Signals** section.
 
-Or choose one from the list of top 10 signal robots that perform better results at the moment in 🚦 **Signals** / 🏆 **Top Perfomance Signal Robots** section.
-Please note that **it doesn't mean that you should use only these signal robots**, because this list only reflects the current market situation. In a few weeks there can be another signal robots in the top perfomance.
+Or choose one from the list of top 10 signal robots that perform better results at the moment in 🚦 **Signals** / 🏆 **Top Performance Signal Robots** section.
+Please note that **it doesn't mean that you should use only these signal robots**, because this list only reflects the current market situation. In a few weeks there can be another signal robots in the top performance.
 
 ## How to understand robot's statistics?
 
@@ -110,7 +110,7 @@ Just enter the received volume while subscribing to new signal robot and you can
 ## How to subscribe on signals in our Telegram bot?
 
 1. Open our telegram bot [@cryptuoso_bot](https://clc.la/cryptuoso_bot_beta)
-2. Choose one of our robots in 🚦 **Signals** / 🔎 **Search Signals** or 🚦 **Signals** / 🏆 **Top Perfomance Signal Robots** sections.
+2. Choose one of our robots in 🚦 **Signals** / 🔎 **Search Signals** or 🚦 **Signals** / 🏆 **Top Performance Signal Robots** sections.
 3. Tap 🚥 **Subscribe to Signals** button.
 4. Enter desired cryptocurrency trading volume.
 5. You will be notified about all trading signals from this signal robot.
@@ -178,10 +178,10 @@ We offer 2 types of statistics:
 2. 📈 **My Statistics**.  
    This statistics based on robot's trades from the moment you subscribed to it.
 
-## Total Perfomance
+## Total Performance
 
-🚦 **Signals** / 📊 **My Total Perfomance** shows the overall statistics for all signal robots from the moment of start.  
-![Total Perfomance](https://support.cryptuoso.com/total_perfomance.png)
+🚦 **Signals** / 📊 **My Total Performance** shows the overall statistics for all signal robots from the moment of start.  
+![Total Performance](https://support.cryptuoso.com/total_performance.png)
 
 ## How to change trading volume if I already subscribed?
 
