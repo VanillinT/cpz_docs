@@ -43,10 +43,10 @@ _Your favorite exchange is not supported yet? [Let us know](https://t.me/joincha
 
 You can select robots by:
 
-- exchange _(Bitfinex, Kraken, ...)_
-- currency pair _(BTC/USD, ETH/USDT, ...)_
-- strategy and parameters _(BR-1, CHAN-3, ...)_
-- timeframe _(8 hour, 1 day, ...)_
+- **exchange** _(Bitfinex, Kraken, ...)_
+- **currency pair** _(BTC/USD, ETH/USDT, ...)_
+- **strategy and parameters** _(BR-1, CHAN-3, ...)_
+- **timeframe** _(8 hour, 1 day, ...)_
 
 Robots have different performance and this performance can change from time to time.
 
@@ -134,7 +134,7 @@ You can disable notification in ⚙️ **Settings** by tapping 🤖 **Turn Teleg
 3. Confirm that you want to stop robot.  
    ![Stop Robot confirmation](https://support.cryptuoso.com/confirm_stop.png)  
    **Note that all open positions will be closed after stopping!**
-4. Wait please till you get the message **Robot is stopped now!** It can take a couple of minutes!
+4. Please wait till you get the message **Robot is stopped now!** It can take a couple of minutes!
 5. After stopping you can choose this robot in 🤖 **My Robots** and press ❌ **Delete Robot**. After your confirmation it will be deleted!  
    **Note that 📈 My Statistics on this robot will be also deleted!**
 
@@ -142,7 +142,7 @@ You can disable notification in ⚙️ **Settings** by tapping 🤖 **Turn Teleg
 
 1. Open 🏠 **Main Menu** / 🤖 **Robots** / 🤖 **My Robots** / and choose the robot you want.
 2. Tap ⛔ **Stop Robot**. Confirm that you want to stop robot.
-3. Wait please till you get the message **Robot is stopped now!** It can take a couple of minutes!
+3. Please wait till you get the message **Robot is stopped now!** It can take a couple of minutes!
 4. Then go 🤖 **Robots** / 🤖 **My Robots** / Choose the robot you want and press ⚙️ **Edit Trading Volume**.
 5. Enter desired trading volume.
 6. Tap 🟢 **Start Robot** and confirm.

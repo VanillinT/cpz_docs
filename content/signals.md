@@ -57,10 +57,10 @@ _Your favorite exchange is not supported yet? [Let us know](https://t.me/joincha
 
 You can select signal robots by:
 
-- exchange _(Bitfinex, Kraken, ...)_
-- currency pair _(BTC/USD, ETH/USDT, ...)_
-- strategy and parameters _(BR-1, CHAN-3, ...)_
-- timeframe _(8 hour, 1 day, ...)_
+- **exchange** _(Bitfinex, Kraken, ...)_
+- **currency pair** _(BTC/USD, ETH/USDT, ...)_
+- **strategy and parameters** _(BR-1, CHAN-3, ...)_
+- **timeframe** _(8 hour, 1 day, ...)_
 
 Signal robots have different performance and this performance can change from time to time.
 
@@ -124,7 +124,7 @@ Just enter the received volume while subscribing to new signal robot and you can
 
 ## What is Long/Short?
 
-**Long** is when we **buy**cryptocurrency and hope that it’s price will **rise**. So we will sell it at higher price and get a profit.  
+**Long** is when we **buy** cryptocurrency and hope that it’s price will **rise**. So we will sell it at higher price and get a profit.  
 **Short** is when we **sell** cryptocurrency (and we didn’t buy it before) and hope that it’s price will **fall**. So we buy it back at lower price and realize a profit.
 
 ## How to understand signals and what to do?
@@ -150,10 +150,14 @@ It's better to read the FAQ on your exchange about order types and how to use th
 
 Example for _Bitfinex_:
 We have the signal:
-Action: **BUY ⬆️ (Long ✳️)**
-Order type: **Stop** ⛔
-Signal time: 2019-10-16 08:00 UTC
-Price: 3.0687
+
+> Action: **BUY ⬆️ (Long ✳️)**
+>
+> Order type: **Stop** ⛔
+>
+> Signal time: 2019-10-16 08:00 UTC
+>
+> Price: 3.0687
 
 What should you do:
 
