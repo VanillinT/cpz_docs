@@ -95,7 +95,7 @@ Just enter the received volume while adding new robot and you can start trading.
 1. Go to [Web App and login into your account](https://cryptuoso.com/auth/login).
 2. Open your [Profile](https://cryptuoso.com/profile).
 3. Create [API Keys Pair](./exchange-accounts) on your exchange and add them to your account in Add your Exchange API keys section.  
-   ![Add Web Keys](https://support.cryptuoso.com/webkeys.png)
+   ![Add Web Keys](https://support.cryptuoso.com/webkey.png)
 4. Choose one of our robots in [Robots Search](https://cryptuoso.com/robots/search) page.
 5. Tap **Add+**.
 6. Choose your Exchange API Key or create new one.
