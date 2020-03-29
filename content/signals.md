@@ -107,6 +107,14 @@ So your trading volume for ETH/USD robot will be
 
 Just enter the received volume while subscribing to new signal robot and you can start trading by following signals.
 
+## How to subscribe on signals in our Web App?
+
+1. Go to [Web App and login into your account](https://cryptuoso.com/auth/login).
+2. Choose one of our robots in [Signals Search](https://cryptuoso.com/signals/search) page.
+3. Tap **Follow** button.
+4. Enter desired cryptocurrency trading volume.
+5. You will be notified about all trading signals from this signal robot.
+
 ## How to subscribe on signals in our Telegram bot?
 
 1. Open our telegram bot [@cryptuoso_bot](https://clc.la/cryptuoso_bot_beta)
