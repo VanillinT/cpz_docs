@@ -32,10 +32,7 @@ Cryptuoso Platform supports:
 
 - [Bitfinex Margin](https://www.bitfinex.com/?refcode=BBRrpRJZ)
 - [Kraken Margin](https://r.kraken.com/mqVYO)
-
-Coming soon:
-
-- Binance Futures
+- [Binance Futures](https://www.binance.com/en/futures/ref/cryptuoso)
 
 _Your favorite exchange is not supported yet? [Let us know](https://t.me/joinchat/ACVS-0zaWVBgAYm8gOKYHA) about your prefered exchange and we will prioritize it in our coming soon list!_
 
@@ -132,11 +129,21 @@ We offer 2 types of statistics:
 🤖 **Robots** / 📊 **My Total Performance** shows the overall statistics for all trading robots from the moment of start.  
 ![Total Performance](https://support.cryptuoso.com/total_performance.png)
 
-## I don't want to recieve notifications about robot trades
+## I don't want to recieve notifications about robot trades in Telegram
 
 You can disable notification in ⚙️ **Settings** by tapping 🤖 **Turn Telegram trading notifications OFF** 🔕.
 ![Notifications](https://support.cryptuoso.com/notifications.png)  
 **If you turn trading notifications OFF you will not receive any messages about trades from ALL ROBOTS!**
+
+## How to stop/delete robot in our Web App?
+
+1. Open [Robots](https://cryptuoso.com/robots) page and choose the robot you want in **My Robots** section.
+2. Tap **Stop** button.
+3. Confirm that you want to stop robot.  
+   **Note that all open positions will be closed after stopping!**
+4. Please wait till you get the notification that your Robot is stopped. It can take a couple of minutes!
+5. After stopping you can choose this robot in **My Robots** and press **Delete** button. After your confirmation it will be deleted!  
+   **Note that 📈 My Statistics on this robot will be also deleted!**
 
 ## How to stop/delete robot in our Telegram bot?
 
@@ -150,7 +157,16 @@ You can disable notification in ⚙️ **Settings** by tapping 🤖 **Turn Teleg
 5. After stopping you can choose this robot in 🤖 **My Robots** and press ❌ **Delete Robot**. After your confirmation it will be deleted!  
    **Note that 📈 My Statistics on this robot will be also deleted!**
 
-## How to change trading volume if the robot is already started?
+## How to change trading volume if the robot is already started in Web App?
+
+1. Open [Robots](https://cryptuoso.com/robots) page and choose the robot you want in **My Robots** section.
+2. Tap **Stop** button. Confirm that you want to stop robot.
+3. Please wait till you get notification that your Robot is stopped. It can take a couple of minutes!
+4. Then go to the robot and press **Edit Trading Volume**.
+5. Enter desired trading volume.
+6. Tap **Start** and confirm.
+
+## How to change trading volume if the robot is already started in Telegram Bot?
 
 1. Open 🏠 **Main Menu** / 🤖 **Robots** / 🤖 **My Robots** / and choose the robot you want.
 2. Tap ⛔ **Stop Robot**. Confirm that you want to stop robot.
