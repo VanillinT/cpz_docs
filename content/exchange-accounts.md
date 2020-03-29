@@ -6,7 +6,7 @@ metaDescription: "How to create API keys"
 
 ## What is an API key?
 
-An API key is the bridge between a Software (Cryptuoso Trading App) and your Exchange. The API key allows to make deals and monitor positions on you account.
+An API key is the bridge between a Software (Cryptuoso Trading App) and any supported Exchange (Bitfinex, Binance, Kraken). The API key allows to make deals and monitor positions on your account.
 
 ## Why does Cryptuoso need API keys?
 

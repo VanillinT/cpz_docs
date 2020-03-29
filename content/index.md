@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-metaTitle: "Cryptuoso Cryptocurrency Trading Platform - Support and Documentation"
+metaTitle: "Cryptuoso Cryptocurrency Trading Robots - Support and Documentation"
 ---
 
 <img align="right" src="./cryptuoso_logo.png" style="padding:0 40px"/>
@@ -11,15 +11,24 @@ These pages contains everything you need to start **trading сryptocurrency** wi
 
 # What is Cryptuoso?
 
-**Cryptuoso** is a **cryptocurrency trading platform**.
-Cryptuoso Platform provides **automated trading robots** built on carefully tested and manually selected trading algorithms.
+**Cryptuoso** is a **cryptocurrency trading solution**.
+Cryptuoso provides **automated trading robots** built on carefully tested and manually selected trading algorithms.
+Trading robots make money on both rising and falling cryptocurrency price movements. The more volatile market – the more opportunities for robots.
 Robots instantly respond to cryptocurrency market fluctuations and generate trading signals that are safely transmitted to the сryptocurrency exchange on your behalf.
 
 # How can I use it?
 
-Cryptuoso Platform is available by [**Cryptuoso Trading Telegram Bot @cryptuoso_bot**](https://clc.la/cryptuoso_bot_beta).
+## Receive Signals
 
-Cryptuoso Web and Mobile Apps will be available soon.
+You can use Cryptuoso robot [signals](./signals) as indicators in your trading and make your trades manually. You will be able to view the approximate statistics of your trade with signals in your account.
+
+## Automatic Trading
+
+Attach you cryptocurrency exchange account (Binance Futures, Bitfinex, Kraken) to our robots for automatic trading. Robots automatically execute all deals for you, so you only need to keep track of the current positions and your trading performance.
+
+Cryptuoso Trading is available by [Web App](https://cryptuoso.com) and [**Telegram Bot @cryptuoso_bot**](https://clc.la/cryptuoso_bot_beta).
+
+Cryptuoso Mobile Apps will be available soon.
 
 # First steps
 

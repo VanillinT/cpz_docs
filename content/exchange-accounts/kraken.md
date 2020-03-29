@@ -52,11 +52,25 @@ API keys consist of a public/private key pair, both of which must be provided to
 
 ![keys](https://support.cryptuoso.com/kraken_keys.png)
 
-1. Now get to the [@cryptuoso_bot](https://clc.la/cryptuoso_bot_beta) in Telegram
+### Cryptuoso Web App
+
+1. Go to your [Profile](https://cryptuoso.com/profile)
+2. In section **My Exchange API Keys** press **ADD NEW KEY +** button
+3. Enter optional Name to your API Key or it will be generated automatically
+4. Select Exchange "Kraken"
+5. Enter your **API Key (Public Key)**
+6. Enter yout **API Secret (Private Key)**
+7. Wait till you API Key Pair will be tested. Cryptuoso Platform will create and immediately cancel order to test your keys.
+8. Now you can start automated trading in **[Robots](https://cryptuoso.com/robots)** page.
+
+### Cryptuoso Trading Telegram Bot
+
+1. Go to the [@cryptuoso_bot](https://clc.la/cryptuoso_bot_beta) in Telegram
 2. Go to ⚙️ **Settings** / 🔐 **My Exchange API Keys**
-3. Enter your **API Key**
-4. Enter yout **API Secret (Private Key)**
-5. Wait till you API Key Pair will be tested. Cryptuoso Platform will create and immediately cancel order to test your keys.
-6. Now you can start automated trading in 🏠 **Main Menu** / 🤖 **Robots** section.
+3. Select "Kraken"
+4. Enter your **API Key**
+5. Enter yout **API Secret (Private Key)**
+6. Wait till you API Key Pair will be tested. Cryptuoso Platform will create and immediately cancel order to test your keys.
+7. Now you can start automated trading in 🏠 **Main Menu** / 🤖 **Robots** section.
 
 ![add api key](https://support.cryptuoso.com/add_api_key.gif)

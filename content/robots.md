@@ -93,6 +93,18 @@ So your trading volume for ETH/USD robot will be
 
 Just enter the received volume while adding new robot and you can start trading.
 
+## How to start robot in our Web App?
+
+1. Go to [Web App and login into your account](https://cryptuoso.com/auth/login).
+2. Open your [Profile](https://cryptuoso.com/profile).
+3. Create [API Keys Pair](./exchange-accounts) on your exchange and add them to your account in Add your Exchange API keys section.  
+   ![Add Web Keys](https://support.cryptuoso.com/webkeys.png)
+4. Choose one of our robots in [Robots Search](https://cryptuoso.com/robots/search) page.
+5. Tap **Add+**.
+6. Choose your Exchange API Key or create new one.
+7. Enter desired cryptocurrency trading volume.
+8. You can immediately start automated trading now by confirming start with "Yes" or tap "No" and start trading with **Start** button later.
+
 ## How to start automated trading using robots in our Telegram Bot?
 
 1. Open our telegram bot [@cryptuoso_bot](https://clc.la/cryptuoso_bot_beta)
