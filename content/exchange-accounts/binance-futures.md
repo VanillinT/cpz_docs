@@ -1,5 +1,5 @@
 ---
-title: "Binance Futures Account"
+title: "Binance Futures"
 metaTitle: "Binance Futures"
 metaDescription: "How to register an account and create API keys"
 ---

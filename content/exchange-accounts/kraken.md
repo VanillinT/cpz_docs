@@ -1,5 +1,5 @@
 ---
-title: "Kraken Account"
+title: "Kraken"
 metaTitle: "Kraken"
 metaDescription: "How to register an account and create API keys"
 ---

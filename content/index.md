@@ -24,7 +24,7 @@ You can use Cryptuoso robot [signals](./signals) as indicators in your trading a
 
 ## Automatic Trading
 
-Attach you cryptocurrency exchange account (Binance Futures, Bitfinex, Kraken) to our robots for automatic trading. Robots automatically execute all deals for you, so you only need to keep track of the current positions and your trading performance.
+Attach you cryptocurrency exchange account (Binance Futures, Bitfinex, Kraken) to our [robots](./robots) for automatic trading. Robots automatically execute all deals for you, so you only need to keep track of the current positions and your trading performance.
 
 Cryptuoso Trading is available by [Web App](https://cryptuoso.com) and [**Telegram Bot @cryptuoso_bot**](https://clc.la/cryptuoso_bot_beta).
 

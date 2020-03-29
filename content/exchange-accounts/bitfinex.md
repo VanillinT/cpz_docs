@@ -1,7 +1,7 @@
 ---
-title: "Bitfinex Account"
+title: "Bitfinex"
 metaTitle: "Bitfinex"
-metaDescription: "How to register an account and create API keys"
+metaDescription: "How to register Bitfinex account and create API keys"
 ---
 
 We are going to explain here how to create an account at Bitfinex, how to deposit funds and how to give your account the API keys allowing it trade.

@@ -44,10 +44,7 @@ Cryptuoso Platform supports:
 
 - [Bitfinex Margin](https://www.bitfinex.com/?refcode=BBRrpRJZ)
 - [Kraken Margin](https://r.kraken.com/mqVYO)
-
-Coming soon:
-
-- Binance Futures
+- [Binance Futures](https://www.binance.com/en/futures/ref/cryptuoso)
 
 ⚠️ **Although the list of supported exchanges is limited. You can use signals at any exchange you want. Notice the possible difference in prices on different exchanges. You can find the list of all popular exchanges [here](https://coinmarketcap.com/rankings/exchanges/)**.
 
@@ -195,7 +192,14 @@ We offer 2 types of statistics:
 🚦 **Signals** / 📊 **My Total Performance** shows the overall statistics for all signal robots from the moment of start.  
 ![Total Performance](https://support.cryptuoso.com/total_performance.png)
 
-## How to change trading volume if I already subscribed?
+## How to change trading volume if I already subscribed in Web App?
+
+1. Open [Signals](https://cryptuoso.com/signals) page and choose the signal robot you want.
+2. Press **Change Volume** button.
+3. Enter desired trading volume.
+4. Note that your previous statistics will be also recalculated.
+
+## How to change trading volume if I already subscribed in Telegram Bot?
 
 1. Open 🏠 **Main Menu** / 🚦 **Signals** / 🚥 **My Signals** / and choose the signal robot you want.
 2. Press ⚙️ **Change Volume**.
@@ -204,9 +208,7 @@ We offer 2 types of statistics:
 
 ![change volume](https://support.cryptuoso.com/change_signal.gif)
 
-## I don't want to recieve notifications about signals
-
-**⚠️ This feature will be useful in the future when Cryptuoso Web and Mobile applications become available**
+## I don't want to recieve notifications about signals in Telegram
 
 You can disable notification in ⚙️ **Settings** by tapping 🚦 **Turn Telegram signals notifications OFF** 🔕.
 ![Notifications](https://support.cryptuoso.com/notifications.png)  

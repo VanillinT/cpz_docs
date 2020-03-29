@@ -31,7 +31,7 @@ const config = {
       "/privacy-policy"
     ],
     links: [
-      { text: "Web Site", link: "https://cryptuoso.com" },
+      { text: "Web Trading App", link: "https://cryptuoso.com" },
       {
         text: "Telegram Trading Bot",
         link: "https://clc.la/cryptuoso_bot_beta"
@@ -41,9 +41,9 @@ const config = {
     ignoreIndex: false
   },
   siteMetadata: {
-    title: "Cryptuoso Cryptocurrency Trading Platform | Support",
+    title: "Cryptuoso Cryptocurrency Trading Robots | Support",
     description:
-      "Cryptuoso Cryptocurrency Trading Platform - Documentation and Support",
+      "Cryptuoso Cryptocurrency Trading Robots - Documentation and Support",
     ogImage: null,
     docsLocation: "https://github.com/cryptuoso/cpz_docs/tree/master/content",
     favicon: "https://support.cryptuoso.com/favicon.png"
