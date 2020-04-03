@@ -10,8 +10,6 @@ Be careful with trading size and remember that the more profit you want to take 
 One of the key things is not to hurry with increasing trading size.  
 Try to diversify your trading using different strategies or coins.
 
-**⚠️ Please keep in mind that the commission is not yet taken into account in any statistics!**
-
 ## What is signal robot?
 
 Signal robot is an algoritm that analyzes the current situation on the market and generates trading signals.
