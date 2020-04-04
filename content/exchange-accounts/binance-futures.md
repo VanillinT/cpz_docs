@@ -49,7 +49,7 @@ API keys consist of a public/private key pair, both of which must be provided to
 3. Enter optional Name to your API Key or it will be generated automatically
 4. Select Exchange "Binance Futures"
 5. Enter your **API Key (Public Key)**
-6. Enter yout **API Secret (Private Key)**
+6. Enter your **API Secret (Private Key)**
 7. Wait till you API Key Pair will be tested. Cryptuoso Platform will create and immediately cancel order to test your keys.
 8. Now you can start automated trading in **[Robots](https://cryptuoso.com/robots)** page.
 
@@ -59,7 +59,7 @@ API keys consist of a public/private key pair, both of which must be provided to
 2. Go to ⚙️ **Settings** / 🔐 **My Exchange API Keys**
 3. Select "Binance Futures"
 4. Enter your **API Key**
-5. Enter yout **API Secret (Private Key)**
+5. Enter your **API Secret (Private Key)**
 6. Wait till you API Key Pair will be tested. Cryptuoso Platform will create and immediately cancel order to test your keys.
 7. Now you can start automated trading in 🏠 **Main Menu** / 🤖 **Robots** section.
 
