@@ -22,7 +22,8 @@ Go to the "Get Verified" in the upper right corner in the account setting. You w
 
 ## Deposit funds to your account
 
-Go to [funding](https://www.kraken.com/u/funding) and put a daw in the field "Show all assets". Then click deposit in the desired currency or cryptocurrency and explore the possible options for depositing.
+Go to [funding](https://www.kraken.com/u/funding) and put a daw in the field "Show all assets". Then click deposit in the desired currency or cryptocurrency and explore the possible options for depositing.  
+Check out [the list of currencies](https://support.kraken.com/hc/en-us/articles/204585998) that can be used for margin trading on Kraken.
 
 ## Creating An API Key
 
@@ -74,3 +75,7 @@ API keys consist of a public/private key pair, both of which must be provided to
 7. Now you can start automated trading in 🏠 **Main Menu** / 🤖 **Robots** section.
 
 ![add api key](https://support.cryptuoso.com/add_api_key.gif)
+
+**\* Trading agreement for German residents**  
+The trading agreement is an additional regulatory requirement for accounts with addresses in Germany.
+Please read the [Kraken trading agreement](https://support.kraken.com/hc/en-us/articles/360036157952). Using our service you accept this agreement.
