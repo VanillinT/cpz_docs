@@ -30,13 +30,13 @@ jobs:
         run: docker push registry.digitalocean.com/cpz/cpz-docs
 
       - name: Update deployment file
-        run: TAG=$(echo $GITHUB_SHA | head -c7) && sed -i 's|<IMAGE>|registry.digitalocean.com/cpz/cpz-docs:'${TAG}'|' $GITHUB_WORKSPACE/deployment.yml
+        run: TAG=$(echo $GITHUB_SHA | head -c7) && sed -i 's|<IMAGE>|registry.digitalocean.com/cpz/cpz-docs:'${TAG}'|' $GITHUB_WORKSPACE/deployment.yaml
 
       - name: Save DigitalOcean kubeconfig
         run: doctl kubernetes cluster kubeconfig show actions-example > $GITHUB_WORKSPACE/.kubeconfig
 
       - name: Deploy to DigitalOcean Kubernetes
-        run: kubectl --kubeconfig=$GITHUB_WORKSPACE/.kubeconfig apply -f $GITHUB_WORKSPACE/deployment.yml
+        run: kubectl --kubeconfig=$GITHUB_WORKSPACE/.kubeconfig apply -f $GITHUB_WORKSPACE/deployment.yaml
 
       - name: Verify deployment
         run: kubectl --kubeconfig=$GITHUB_WORKSPACE/.kubeconfig rollout status deployment/cpz-docs
