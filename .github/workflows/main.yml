@@ -18,12 +18,13 @@ jobs:
       - name: Build container image
         run: docker build -t registry.digitalocean.com/cpz/cpz-docs:$(echo $GITHUB_SHA | head -c7) .
 
-      - name: Docker Login
-        uses: digitalocean/action-doctl@master
-        env:
-          DIGITALOCEAN_ACCESS_TOKEN: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+      - name: Install doctl
+        uses: digitalocean/action-doctl@v2-experiment
         with:
-          args: doctl registry login
+          token: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
+
+      - name: Login to Docker
+        run: doctl registry login
 
       - name: Push image to Docker Hub
         run: docker push registry.digitalocean.com/cpz/cpz-docs
@@ -32,11 +33,7 @@ jobs:
         run: TAG=$(echo $GITHUB_SHA | head -c7) && sed -i 's|<IMAGE>|registry.digitalocean.com/cpz/cpz-docs:'${TAG}'|' $GITHUB_WORKSPACE/deployment.yml
 
       - name: Save DigitalOcean kubeconfig
-        uses: digitalocean/action-doctl@master
-        env:
-          DIGITALOCEAN_ACCESS_TOKEN: ${{ secrets.DIGITALOCEAN_ACCESS_TOKEN }}
-        with:
-          args: kubernetes cluster kubeconfig show actions-example > $GITHUB_WORKSPACE/.kubeconfig
+        run: doctl kubernetes cluster kubeconfig show actions-example > $GITHUB_WORKSPACE/.kubeconfig
 
       - name: Deploy to DigitalOcean Kubernetes
         run: kubectl --kubeconfig=$GITHUB_WORKSPACE/.kubeconfig apply -f $GITHUB_WORKSPACE/deployment.yml
