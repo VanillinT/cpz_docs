@@ -1,0 +1,49 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: cpz-docs
+  labels:
+    app: cpz-docs
+    env: prod
+  namespace: default
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: cpz-docs
+      env: prod
+  template:
+    metadata:
+      labels:
+        app: cpz-docs
+        env: prod
+    spec:
+      containers:
+        - image: <IMAGE>
+          imagePullPolicy: IfNotPresent
+          name: cpz-docs
+          ports:
+            - containerPort: 8080
+              protocol: TCP
+          resources:
+            limits:
+              memory: 256Mi
+              cpu: "250m"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  labels:
+    app: cpz-docs
+    env: prod
+  name: cpz-docs
+  namespace: default
+spec:
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
+  selector:
+    app: cpz-docs
+    env: prod
+  type: ClusterIP
