@@ -13,6 +13,7 @@ RUN npm ci
 # Bundle app source
 COPY . .
 
+ARG GA_TRACKING=${GA_TRACKING}
 # Build static files
 RUN npm run build
 

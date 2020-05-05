@@ -18,6 +18,8 @@ spec:
         app: cpz-docs
         env: prod
     spec:
+      imagePullSecrets:
+        - name: cpz-registry
       containers:
         - image: <IMAGE>
           imagePullPolicy: IfNotPresent

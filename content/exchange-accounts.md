@@ -20,9 +20,9 @@ By using this API key, we do not require any Login information of your exchange,
 
 Look at the section for your Exchange.
 
-- [Bitfinex](/bitfinex)
-- [Kraken](/kraken)
-- [Binance Futures](/binance-futures)
+- [Bitfinex](./bitfinex)
+- [Kraken](./kraken)
+- [Binance Futures](./binance-futures)
 
 ### How to add API Key to My Cryptuoso Account using Web App?
 
