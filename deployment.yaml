@@ -1,51 +1,54 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: cpz-docs
-  labels:
-    app: cpz-docs
-    env: prod
-  namespace: default
-spec:
-  replicas: 1
-  selector:
-    matchLabels:
-      app: cpz-docs
-      env: prod
-  template:
-    metadata:
-      labels:
+    name: cpz-docs
+    labels:
         app: cpz-docs
         env: prod
-    spec:
-      imagePullSecrets:
-        - name: cpz-registry
-      containers:
-        - image: <IMAGE>
-          imagePullPolicy: IfNotPresent
-          name: cpz-docs
-          ports:
-            - containerPort: 8080
-              protocol: TCP
-          resources:
-            limits:
-              memory: 256Mi
-              cpu: "250m"
+    namespace: default
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            app: cpz-docs
+            env: prod
+    template:
+        metadata:
+            labels:
+                app: cpz-docs
+                env: prod
+        spec:
+            imagePullSecrets:
+                - name: cpz-registry
+            containers:
+                - image: <IMAGE>
+                  imagePullPolicy: IfNotPresent
+                  name: cpz-docs
+                  ports:
+                      - containerPort: 8080
+                        protocol: TCP
+                  resources:
+                      requests:
+                          memory: 128Mi
+                          cpu: "10m"
+                      limits:
+                          memory: 256Mi
+                          cpu: "50m"
 ---
 apiVersion: v1
 kind: Service
 metadata:
-  labels:
-    app: cpz-docs
-    env: prod
-  name: cpz-docs
-  namespace: default
+    labels:
+        app: cpz-docs
+        env: prod
+    name: cpz-docs
+    namespace: default
 spec:
-  ports:
-    - protocol: TCP
-      port: 8080
-      targetPort: 8080
-  selector:
-    app: cpz-docs
-    env: prod
-  type: ClusterIP
+    ports:
+        - protocol: TCP
+          port: 8080
+          targetPort: 8080
+    selector:
+        app: cpz-docs
+        env: prod
+    type: ClusterIP
