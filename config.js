@@ -2,7 +2,7 @@ const config = {
   gatsby: {
     pathPrefix: "/",
     siteUrl: "https://support.cryptuoso.com",
-    gaTrackingId: null
+    gaTrackingId: null,
   },
   header: {
     logo: "https://support.cryptuoso.com/cryptuoso_logo.png",
@@ -17,8 +17,8 @@ const config = {
       indexName: "learn-hasura-test",
       algoliaAppId: process.env.GATSBY_ALGOLIA_APP_ID,
       algoliaSearchKey: process.env.GATSBY_ALGOLIA_SEARCH_KEY,
-      algoliaAdminKey: process.env.ALGOLIA_ADMIN_KEY
-    }
+      algoliaAdminKey: process.env.ALGOLIA_ADMIN_KEY,
+    },
   },
   sidebar: {
     forcedNavOrder: [
@@ -27,18 +27,19 @@ const config = {
       "/signals",
       "/exchange-accounts",
       "/support",
+      "/help",
       "/terms-of-use",
-      "/privacy-policy"
+      "/privacy-policy",
     ],
     links: [
       { text: "Web Trading App", link: "https://cryptuoso.com" },
       {
         text: "Telegram Trading Bot",
-        link: "https://clc.la/cryptuoso_bot_beta"
-      }
+        link: "https://clc.la/cryptuoso_bot_beta",
+      },
     ],
     frontline: false,
-    ignoreIndex: false
+    ignoreIndex: false,
   },
   siteMetadata: {
     title: "Cryptuoso Cryptocurrency Trading Robots | Support",
@@ -46,8 +47,8 @@ const config = {
       "Cryptuoso Cryptocurrency Trading Robots - Documentation and Support",
     ogImage: null,
     docsLocation: "https://github.com/cryptuoso/cpz_docs/tree/master/content",
-    favicon: "https://support.cryptuoso.com/favicon.png"
-  }
+    favicon: "https://support.cryptuoso.com/favicon.png",
+  },
 };
 
 module.exports = config;
